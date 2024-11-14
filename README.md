@@ -54,6 +54,10 @@ npm install
 cd ../frontend
 npm install
 ```
+If not working...
+```bash
+npm install --legacy-peer-deps
+```
 
 3. Environment Variables
 Set up environment variables for both backend and frontend.
